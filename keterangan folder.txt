@@ -1,4 +1,8 @@
 001html = footer
 002html = memperbaiki layout footer
 003html = layout bagian utama
-004html = konten
+004html = membentuk konten
+005html = membentuk konten list
+006html = membentuk konten list dengan menggunakan margin
+007html = layout formulir
+008html = layout formulir(2) menambakan inputan
